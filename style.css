@@ -1,0 +1,23 @@
+* {
+    background-color:pink;
+font-family: Algerian; 
+color: rgb(47, 0, 255);
+ }
+ main {color: blueviolet;
+font-size: 15px ;}
+.dias {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 5em;
+    color: crimson;
+}
+.parrafo {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.horarios {
+    font-family: 'Times New Roman', Times, serif ;
+    font-style: italic ;
+    font-size: 40px;
+}
